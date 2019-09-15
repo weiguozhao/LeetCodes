@@ -1,4 +1,4 @@
-package easy;
+package javalanguage.easy;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -54,6 +54,11 @@ public class ValidParentheses {
             return false;
         }
     }
+
+    /**
+     * 思路就是用一个stack来辅助判断
+     * 细节：奇数长度串
+     * */
 
     public static void main(String[] args) {
         String s = "()[]{}";

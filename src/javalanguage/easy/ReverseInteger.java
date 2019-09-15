@@ -1,4 +1,4 @@
-package easy;
+package javalanguage.easy;
 
 /**
  * @author zhaoweiguo
