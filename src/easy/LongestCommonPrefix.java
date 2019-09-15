@@ -5,6 +5,10 @@ package easy;
  * @date 2019-09-15
  */
 public class LongestCommonPrefix {
+    /**
+     * problem 14.
+     * https://leetcode-cn.com/problems/longest-common-prefix/
+     * */
 
     public String longestCommonPrefix(String[] strs) {
         if (strs.length < 1 || strs == null) {

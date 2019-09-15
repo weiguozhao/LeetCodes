@@ -5,6 +5,10 @@ package easy;
  * @date 2019-09-13
  */
 public class ReverseInteger {
+    /**
+     * problem 7.
+     * https://leetcode-cn.com/problems/reverse-integer/
+     * */
     public int temperse(int x) {
         int tailMaxInt = Integer.MAX_VALUE % 10;
         int tailMinInt = Integer.MIN_VALUE % 10;
