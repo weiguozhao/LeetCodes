@@ -66,6 +66,11 @@ public class MaximumSubarray {
     /**
      * TODO 动态规划+分治法的典型案例：53.最大子序列和
      * https://leetcode-cn.com/problems/maximum-subarray/
+     *
+     * 详细解析：
+     * https://my.oschina.net/itblog/blog/267860
+     * - a[i]是负数，那么它不可能代表最优序列的起点;
+     * - 任何负的子序列也不可能是最优子序列的前缀
      */
     public static void main(String[] args) {
         int[] nums = {-2, 1, -3, 4, -1, 2, 1, -5, 4};
