@@ -2,4 +2,8 @@ There are some important problems in easy level.
 --------------
 
 - 53 [最大子序列和(maxSubArray)](https://leetcode-cn.com/problems/maximum-subarray/)
-- 
+    - 动态规划
+    - 分治法
+- 69 [x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
+    - 牛顿迭代法
+    - 二分法
