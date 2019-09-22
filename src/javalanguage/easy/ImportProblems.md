@@ -14,3 +14,7 @@ There are some important problems in easy level.
 - 101 [称二叉树](https://leetcode-cn.com/problems/symmetric-tree/submissions/)
     - 递归
     - 类广度优先遍历
+- 104 [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/submissions/)
+    - 深度优先遍历(递归)
+    - 深度优先遍历(迭代)
+    - 广度优先遍历(迭代)
