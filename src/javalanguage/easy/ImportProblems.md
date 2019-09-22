@@ -18,3 +18,9 @@ There are some important problems in easy level.
     - 深度优先遍历(递归)
     - 深度优先遍历(迭代)
     - 广度优先遍历(迭代)
+- 111 [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
+    - 二叉树的先、中、后序遍历
+    - 二叉树的递归、迭代遍历
+
+
+
