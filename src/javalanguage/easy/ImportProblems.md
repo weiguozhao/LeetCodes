@@ -21,6 +21,8 @@ There are some important problems in easy level.
 - 111 [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
     - 二叉树的先、中、后序遍历
     - 二叉树的递归、迭代遍历
+- 122 [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
+    - 技巧型分析题目(找到其中的关键点)
 
 
 
