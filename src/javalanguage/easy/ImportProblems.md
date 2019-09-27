@@ -33,6 +33,9 @@ There are some important problems in easy level.
     - 空间换时间的典型问题
 - 169 [求众数](https://leetcode-cn.com/problems/majority-element/comments/)
     - 发现题目限定信息(众数数量超过数组一半)
-
+- 172 [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)
+    - 发现其中的数学规律
+- 189 [旋转数组](https://leetcode-cn.com/problems/rotate-array/)
+    - 利用reverse来处理
 
 

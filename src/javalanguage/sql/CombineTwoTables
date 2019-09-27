@@ -1,0 +1,7 @@
+
+-- problem 175
+-- https://leetcode-cn.com/problems/combine-two-tables/solution/zu-he-liang-ge-biao-by-leetcode/
+
+select p.firstName,p.LastName,a.City,a.State
+from person p left join address a
+on p.personID = a.PersonID;
