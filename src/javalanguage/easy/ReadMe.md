@@ -37,5 +37,6 @@ There are some important problems in easy level.
     - 发现其中的数学规律
 - 189 [旋转数组](https://leetcode-cn.com/problems/rotate-array/)
     - 利用reverse来处理
-
+- 202 [快乐数](https://leetcode-cn.com/problems/happy-number/submissions/)
+    - 快慢指针,同[链表判断是否有环](https://leetcode-cn.com/problems/linked-list-cycle/)一样的思路
 
