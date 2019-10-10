@@ -44,7 +44,7 @@ public class LongestPalindromicSubstring {
     /**
      * 中心拓展法
      */
-    public String longestPalindrome(String s) {
+    public String longestPalindrome_expand(String s) {
         if (s.length() <= 1) {
             return s;
         }
@@ -56,7 +56,7 @@ public class LongestPalindromicSubstring {
             while (i - len >= 0 && i + len < length && s.charAt(i - len) == s.charAt(i + len)) {
                 len++;
             }
-            len --;
+            len--;
             res = res.length() > 2 * len + 1 ? res : s.substring(i - len, i + len + 1);
 
             // 以i，i+1为中心，偶数个字符
@@ -70,6 +70,44 @@ public class LongestPalindromicSubstring {
             }
         }
         return res;
+    }
+
+    /**
+     * 动态规划
+     * p[i][j] = 1 if s[i]=s[j] && p[i+1]==p[j-1]
+     * p[i][j] = 0 otherwise
+     */
+    public String longestPalindrome(String s) {
+        if (s.length() <= 1) {
+            return s;
+        }
+        int length = s.length(), start = 0, maxLength = 1, j;
+        // TODO 优化空间复杂度，这里其实只用到了二维数组的一半
+        // 创建二维数组用来标记从i到j的字串是否是回文
+        int[][] flag = new int[length][length];
+        for (int i = 0; i < length; i++) {
+            flag[i][i] = 1;
+            if (i < length - 1 && s.charAt(i) == s.charAt(i + 1)) {
+                flag[i][i + 1] = 1;
+                start = i;
+                maxLength = 2;
+            }
+        }
+        // l表示字串的长度，从3开始
+        for (int l = 3; l < length; l++) {
+            // i表示子串开始的位置
+            for (int i = 0; i + l - 1 < length; i++) {
+                // j表示子串结束的位置
+                j = i + l - 1;
+                if (s.charAt(i) == s.charAt(j) && flag[i + 1][j - 1] == 1) {
+                    flag[i][j] = 1;
+                    start = i;
+                    maxLength = l;
+                }
+            }
+        }
+        return s.substring(start, maxLength);
+
     }
 
     public static void main(String[] args) {
