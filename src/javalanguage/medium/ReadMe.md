@@ -8,7 +8,9 @@ There are some important problems in medium level.
     - [动态规划](https://leetcode-cn.com/problems/longest-palindromic-substring/solution/zui-chang-hui-wen-zi-chuan-by-leetcode/)
     - 中心拓展
     - [Manacher算法](https://weiguozhao.github.io/2018/05/10/LongestPalindromicSubstring/)
-
+- 8 [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)
+    - 加减法越界判断：看标志位
+    - 乘法越界判断：除回来和原来的数字不一样
 
 
 
