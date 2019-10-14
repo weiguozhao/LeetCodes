@@ -26,7 +26,7 @@ There are some important problems in easy level.
 - 136 [只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
     - 位操作-异或
 - 141 [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
-    - 快慢指针
+    - 双指针(快慢指针)
 - 155 [最小栈](https://leetcode-cn.com/problems/min-stack/)
     - [使用辅助栈（同步和不同步，Python 代码、Java 代码）](https://leetcode-cn.com/problems/min-stack/solution/shi-yong-fu-zhu-zhan-tong-bu-he-bu-tong-bu-python-/)
         - 注意下面评论中，对象判断相等的问题(对象==对象：判断内存地址相等；对象.equals(对象)：判断值相等；)

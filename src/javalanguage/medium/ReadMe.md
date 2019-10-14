@@ -11,7 +11,8 @@ There are some important problems in medium level.
 - 8 [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)
     - 加减法越界判断：看标志位
     - 乘法越界判断：除回来和原来的数字不一样
-
+- 11 [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)
+    - 双指针法
 
 
 
