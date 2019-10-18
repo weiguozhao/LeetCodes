@@ -20,6 +20,8 @@ There are some important problems in medium level.
     - 递归；回溯
 - 19 [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/submissions/)
     - 适当添加链表的头节点
+- 29 [两数相除](https://leetcode-cn.com/problems/divide-two-integers/)
+    - 基本上只要是限制使用某些运算的，都需要位操作来实现
 
 
 
