@@ -22,7 +22,8 @@ There are some important problems in medium level.
     - 适当添加链表的头节点
 - 29 [两数相除](https://leetcode-cn.com/problems/divide-two-integers/)
     - 基本上只要是限制使用某些运算的，都需要位操作来实现
-
+- 31 [下一个排列](https://leetcode-cn.com/problems/next-permutation/)
+    - [Wikipedia解法](https://leetcode-cn.com/problems/next-permutation/solution/xia-yi-ge-pai-lie-by-powcai/)
 
 
 
