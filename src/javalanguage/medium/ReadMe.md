@@ -26,6 +26,7 @@ There are some important problems in medium level.
     - [Wikipedia解法](https://leetcode-cn.com/problems/next-permutation/solution/xia-yi-ge-pai-lie-by-powcai/)
 - 33 [***搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
     - 变化的二分查找
+    - 讨论区解：分两次找，一次找左边界，第二次找右边界 = log(n) + log(n)
 
 
 
