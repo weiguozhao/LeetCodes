@@ -27,7 +27,8 @@ There are some important problems in medium level.
 - 33 [***搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
     - 变化的二分查找
     - 讨论区解：分两次找，一次找左边界，第二次找右边界 = log(n) + log(n)
-
+- 36 [*有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)
+    - 重点分析数Box的Index
 
 
 
