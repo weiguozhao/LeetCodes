@@ -29,7 +29,8 @@ There are some important problems in medium level.
     - 讨论区解：分两次找，一次找左边界，第二次找右边界 = log(n) + log(n)
 - 36 [*有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)
     - 重点分析数Box的Index
-
+- 40 [组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/)
+    - 注意要让candidate数组中的每个数都有机会被用到
 
 
 
