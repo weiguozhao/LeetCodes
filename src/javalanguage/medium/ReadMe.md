@@ -31,6 +31,8 @@ There are some important problems in medium level.
     - 重点分析数Box的Index
 - 40 [组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/)
     - 注意要让candidate数组中的每个数都有机会被用到
+- 47 [全排列 II](https://leetcode-cn.com/problems/permutations-ii)
+    - 注意[剪枝分析](https://leetcode-cn.com/problems/permutations-ii/solution/hui-su-suan-fa-python-dai-ma-java-dai-ma-by-liwe-2/)
 
 
 
