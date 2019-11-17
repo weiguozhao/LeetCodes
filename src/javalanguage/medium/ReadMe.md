@@ -29,11 +29,12 @@ There are some important problems in medium level.
     - 讨论区解：分两次找，一次找左边界，第二次找右边界 = log(n) + log(n)
 - 36 [*有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)
     - 重点分析数Box的Index
-- 40 [组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/)
+- 40 [*组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/)
     - 注意要让candidate数组中的每个数都有机会被用到
-- 47 [全排列 II](https://leetcode-cn.com/problems/permutations-ii)
+- 47 [*全排列 II](https://leetcode-cn.com/problems/permutations-ii)
     - 注意[剪枝分析](https://leetcode-cn.com/problems/permutations-ii/solution/hui-su-suan-fa-python-dai-ma-java-dai-ma-by-liwe-2/)
-- 50 [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)
+- 50 [*Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)
     - 学习别人的代码：[思路清晰、代码简洁](https://leetcode-cn.com/problems/powx-n/solution/qing-xi-jian-dan-de-dan-han-shu-di-gui-wu-lei-xing/)
-
+- 54 [**螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)
+    - 通过[两个数组表示方向访问矩阵进行操作](https://leetcode-cn.com/problems/spiral-matrix/solution/luo-xuan-ju-zhen-by-leetcode/)的典型题目
 
