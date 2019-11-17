@@ -60,6 +60,13 @@ public class SpiralMatrix {
         return ans;
     }
 
+    /**
+     * 使用最符合逻辑的方式
+     * 1. 越界跳出
+     * 2. 只剩一个数字的情况;
+     * 3. 只剩一行/一列的情况;
+     * 4. 正常情况，顺时针旋转遍历;
+     * */
     private List<Integer> res;
 
     public List<Integer> spiralOrder_Direct(int[][] matrix) {
