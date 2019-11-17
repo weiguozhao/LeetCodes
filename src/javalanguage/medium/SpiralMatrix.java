@@ -39,6 +39,7 @@ public class SpiralMatrix {
         }
         int row = matrix.length, col = matrix[0].length;
         boolean[][] seen = new boolean[row][col];
+        // Direction: right, down, left, up
         int[] directRow = {0, 1, 0, -1};
         int[] directCol = {1, 0, -1, 0};
         int rowIndex = 0, colIndex = 0, direct = 0;
