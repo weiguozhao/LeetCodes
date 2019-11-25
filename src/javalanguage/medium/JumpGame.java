@@ -25,15 +25,15 @@ public class JumpGame {
      */
     public boolean canJump(int[] nums) {
         // method1: traditional back trace
-        return canJumpFromPositionBackTrace(0, nums);
+//        return canJumpFromPositionBackTrace(0, nums);
 
         // method2: dynamic program top and below
-        memo = new Index[nums.length];
-        for (int i = 0; i < memo.length; i++) {
-            memo[i] = Index.UNKNOWN;
-        }
-        memo[memo.length - 1] = Index.GOOD;
-        return canJumpFromPositionDynamicProgramTopAndBelow(0, nums);
+//        memo = new Index[nums.length];
+//        for (int i = 0; i < memo.length; i++) {
+//            memo[i] = Index.UNKNOWN;
+//        }
+//        memo[memo.length - 1] = Index.GOOD;
+//        return canJumpFromPositionDynamicProgramTopAndBelow(0, nums);
 
         // method3: dynamic program below and top
         return canJumpDynamicProgramBelowAndTop(nums);
