@@ -48,10 +48,16 @@ public class SpiralMatrix {
             seen[rowIndex][colIndex] = true;
             int cr = rowIndex + directRow[direct];
             int cc = colIndex + directCol[direct];
+            /*
+             * 判断是否越界
+             * */
             if (0 <= cr && cr < row && 0 <= cc && cc < col && !seen[cr][cc]) {
                 rowIndex = cr;
                 colIndex = cc;
             } else {
+                /*
+                 * 越界的话进行换向
+                 */
                 direct = (direct + 1) % 4;
                 rowIndex += directRow[direct];
                 colIndex += directCol[direct];

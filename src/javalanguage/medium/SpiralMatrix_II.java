@@ -32,10 +32,16 @@ public class SpiralMatrix_II {
             value++;
             int cr = rowIndex + directRow[dirextIndex];
             int cc = colIndex + directCol[dirextIndex];
+            /*
+            * 判断是否越界
+            * */
             if (0 <= cr && cr < n && 0 <= cc && cc < n && matrix[cr][cc] == 0) {
                 rowIndex = cr;
                 colIndex = cc;
             } else {
+                /*
+                 * 越界的话进行换向
+                 */
                 dirextIndex = (dirextIndex + 1) % 4;
                 rowIndex += directRow[dirextIndex];
                 colIndex += directCol[dirextIndex];
