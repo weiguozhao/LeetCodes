@@ -76,13 +76,64 @@ public class PermutationSequence {
 
     /**
      * method 2
-     * 全排列剪枝优化
+     * 根据 阶乘 的分布，直接计算个数
+     *
+     * 例：n= 3, k = 4
+     *
+     *     1         2          3
+     *    / \      /  \       /  \
+     *   2  3     1   3      1    2
+     *  /   \    /    \     /     \
+     * 3    2   3      1    2     1
+     *
+     * k=4, answer="231"
+     * root=1 有 (n-1)! = 2 个值
+     * root=2 有 (n-1)! = 2 个值
+     * root=3 有 (n-1)! = 2 个值
+     *
+     * 同理，对于一个节点下方有 (n-1)! 个值，直接根据这个 (n-1)! 个值进行计算
+     *
+     * 执行结果：通过 显示详情
+     * 执行用时 : 1 ms, 在所有 java 提交中击败了 100.00% 的用户
+     * 内存消耗 : 34 MB, 在所有 java 提交中击败了 91.93% 的用户
      */
 
+    /**
+     * factor[0] = 1 是为了控制最后一位数加入到 StringBuilder 中
+     * */
+    private int[] factor = {1, 1, 2, 6, 24, 120, 720, 5040, 40320, 362880};
+
+    public String getPermutationCut(int n, int k) {
+        StringBuilder stringBuilder = new StringBuilder();
+        int[] nums = new int[n + 1];
+        getPermutationCut(n, n, k, nums, stringBuilder);
+        return stringBuilder.toString();
+    }
+
+
+    private void getPermutationCut(int originN, int n, int k, int[] nums, StringBuilder stringBuilder) {
+
+        for (int i = 1; i <= originN; i++) {
+            if (nums[i] != 0) {
+                continue;
+            }
+            if (k - factor[n - 1] <= 0) {
+                stringBuilder.append(i);
+                nums[i] = 1;
+                break;
+            }
+            k -= factor[n - 1];
+        }
+        if (n > 0) {
+            getPermutationCut(originN, n - 1, k, nums, stringBuilder);
+        }
+    }
 
     public static void main(String[] args) {
-        int n = 4, k = 9;
-        String res = new PermutationSequence().getPermutation(n, k);
+        int n = 4, k = 5;
+        String res = new PermutationSequence().getPermutationCut(n, k);
+        String answer = new PermutationSequence().getPermutation(n, k);
         System.out.println(res);
+        System.out.println(answer);
     }
 }
