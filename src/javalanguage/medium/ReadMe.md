@@ -37,4 +37,10 @@ There are some important problems in medium level.
     - 学习别人的代码：[思路清晰、代码简洁](https://leetcode-cn.com/problems/powx-n/solution/qing-xi-jian-dan-de-dan-han-shu-di-gui-wu-lei-xing/)
 - 54 [**螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)
     - 通过[两个数组表示方向访问矩阵进行操作](https://leetcode-cn.com/problems/spiral-matrix/solution/luo-xuan-ju-zhen-by-leetcode/)的典型题目
+- 63 [不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)
+    - 动态规划尽量用自底向上的循环方式，少用自顶向下的递归方式，递归方式容易超时、栈溢出
+
+
+
+
 
