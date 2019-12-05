@@ -44,13 +44,13 @@ public class SortColors {
     }
 
     private void swap(int[] nums, int left, int right) {
-        nums[left] += nums[right];
-        nums[right] = nums[left] - nums[right];
-        nums[left] = nums[left] - nums[right];
+        int temp = nums[left];
+        nums[left] = nums[right];
+        nums[right] = temp;
     }
 
     public static void main(String[] args) {
-        int[] nums = {2, 0, 2, 1, 1, 0};
+        int[] nums = {2, 2};
         new SortColors().sortColors(nums);
         for (int x : nums) {
             System.out.print(x + " ");
