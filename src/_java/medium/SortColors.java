@@ -27,7 +27,8 @@ public class SortColors {
      */
     public void sortColors(int[] nums) {
         int front = 0, last = nums.length - 1, current = 0;
-        while (current < last) {
+        // 等于 2 的左边界的时候也要判断
+        while (current <= last) {
             if (nums[current] == 0) {
                 swap(nums, front, current);
                 front++;
