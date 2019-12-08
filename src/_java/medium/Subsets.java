@@ -1,5 +1,6 @@
 package _java.medium;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -55,9 +56,32 @@ public class Subsets {
         }
     }
 
+    /**
+     * 回溯法常规解法：
+     * */
+    public List<List<Integer>> subsets2(int[] nums) {
+        res = new ArrayList<>();
+        if (nums.length < 1) {
+            return res;
+        }
+        subsets2(nums, 0, new ArrayList<>(), res);
+        return res;
+    }
+    private void subsets2(int[] nums, int index, List<Integer> subSet, List<List<Integer>> res) {
+        res.add(new ArrayList<>(subSet));
+        for (int i = index; i < nums.length; i++) {
+            if (i > index && nums[i] == nums[i - 1]) {
+                continue;
+            }
+            subSet.add(nums[i]);
+            subsets2(nums, i + 1, subSet, res);
+            subSet.remove(subSet.size() - 1);
+        }
+    }
+
     public static void main(String[] args) {
         int[] nums = {1, 2, 3};
-        List<List<Integer>> res = new Subsets().subsets(nums);
+        List<List<Integer>> res = new Subsets().subsets2(nums);
         for (List<Integer> set : res) {
             for (Integer x : set) {
                 System.out.print(x + " ");

@@ -50,4 +50,8 @@ There are some important problems in medium level.
     - 快慢指针
 - 89 [格雷编码](https://leetcode-cn.com/problems/gray-code/)
     - [格雷码的公式技巧](https://leetcode-cn.com/problems/gray-code/solution/gray-code-jing-xiang-fan-she-fa-by-jyd/)
+- 78 [***子集](https://leetcode-cn.com/problems/subsets/)
+    - 注意比较自己写的两个回溯的区别
+- 90 [***子集 II](https://leetcode-cn.com/problems/subsets-ii/)
+    - 重复元素的处理方式
 
