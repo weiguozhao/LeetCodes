@@ -39,8 +39,10 @@ There are some important problems in medium level.
     - 通过[两个数组表示方向访问矩阵进行操作](https://leetcode-cn.com/problems/spiral-matrix/solution/luo-xuan-ju-zhen-by-leetcode/)的典型题目
 - 63 [不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)
     - 动态规划尽量用自底向上的循环方式，少用自顶向下的递归方式，递归方式容易超时、栈溢出
-
-
+- 79 [*****单词搜索](https://leetcode-cn.com/problems/word-search/)
+    - 二维平面的回溯法
+    - 方向偏移数组的使用
+    - 类内private变量的使用
 
 
 
