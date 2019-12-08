@@ -42,7 +42,7 @@ public class Searcha2DMatrix {
         int low = 0, big = rows - 1, mid;
         while (low < big) {
             // 控制取右中位数
-            mid = (low + big + 1) >> 1;
+            mid = (low + big + 1) >>> 1;
             if (matrix[mid][0] == target) {
                 return true;
             } else if (matrix[mid][0] < target) {
@@ -59,7 +59,7 @@ public class Searcha2DMatrix {
         low = 0;
         big = cols - 1;
         while (low < big) {
-            mid = (low + big) >> 1;
+            mid = (low + big) >>> 1;
             if (matrix[targetRow][mid] == target) {
                 return true;
             } else if (matrix[targetRow][mid] < target) {
