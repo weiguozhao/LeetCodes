@@ -43,6 +43,7 @@ There are some important problems in medium level.
     - 二维平面的回溯法
     - 方向偏移数组的使用
     - 类内private变量的使用
-
+- 80 [删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)
+    - 快慢指针
 
 
