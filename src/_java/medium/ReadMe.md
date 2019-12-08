@@ -48,5 +48,6 @@ There are some important problems in medium level.
     - 类内private变量的使用
 - 80 [删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)
     - 快慢指针
-
+- 89 [格雷编码](https://leetcode-cn.com/problems/gray-code/)
+    - [格雷码的公式技巧](https://leetcode-cn.com/problems/gray-code/solution/gray-code-jing-xiang-fan-she-fa-by-jyd/)
 
