@@ -34,8 +34,11 @@ There are some important problems in medium level.
     - 重点分析数Box的Index
 - 40 [*组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/)
     - 注意要让candidate数组中的每个数都有机会被用到
-- 47 [*全排列 II](https://leetcode-cn.com/problems/permutations-ii)
+- 47 [****全排列 II](https://leetcode-cn.com/problems/permutations-ii)
     - 注意[剪枝分析](https://leetcode-cn.com/problems/permutations-ii/solution/hui-su-suan-fa-python-dai-ma-java-dai-ma-by-liwe-2/)
+- 90 [****子集 II](https://leetcode-cn.com/problems/subsets-ii/)
+    - 重复元素的处理方式
+    - 和 problem 47 对照一起分析
 - 50 [*Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)
     - 学习别人的代码：[思路清晰、代码简洁](https://leetcode-cn.com/problems/powx-n/solution/qing-xi-jian-dan-de-dan-han-shu-di-gui-wu-lei-xing/)
 - 54 [**螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)
@@ -52,7 +55,5 @@ There are some important problems in medium level.
     - [格雷码的公式技巧](https://leetcode-cn.com/problems/gray-code/solution/gray-code-jing-xiang-fan-she-fa-by-jyd/)
 - 78 [***子集](https://leetcode-cn.com/problems/subsets/)
     - 注意比较自己写的两个回溯的区别
-- 90 [***子集 II](https://leetcode-cn.com/problems/subsets-ii/)
-    - 重复元素的处理方式
 - 91 [****解码方法](https://leetcode-cn.com/problems/decode-ways/)
     - 动态规划
