@@ -36,9 +36,20 @@ public class Subsets_II {
         return res;
     }
 
+    /**
+     * 解答树：
+     *          1       2
+     *         / \       \
+     *        2   2       2
+     *       /
+     *      2
+     * */
     private void subsetsWithDup(int[] nums, int index, List<Integer> subSet, List<List<Integer>> res) {
         res.add(new ArrayList<>(subSet));
         for (int i = index; i < nums.length; i++) {
+            // 以当前value为root的子树不能再使用相同的当前值
+            // i > index: 控制当前值的使用
+            // nums[i] == nums[i-1]: 控制当前value为root的子树不再有value
             if (i > index && nums[i] == nums[i - 1]) {
                 continue;
             }

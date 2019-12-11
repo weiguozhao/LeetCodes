@@ -37,6 +37,7 @@ public class Subsets {
     public List<List<Integer>> subsets(int[] nums) {
         res = new LinkedList<List<Integer>>();
 
+        // i表示子集的长度
         for (int i = 1; i <= nums.length; i++) {
             subsets(nums, i, 0, new LinkedList<>());
         }
@@ -58,6 +59,12 @@ public class Subsets {
 
     /**
      * 回溯法常规解法：
+     * 解答树，遍历到每个节点的时候都把当前的结果保存下来:
+     *     1        2       3
+     *    / \        \
+     *   2   3        3
+     *  /
+     * 3
      * */
     public List<List<Integer>> subsets2(int[] nums) {
         res = new ArrayList<>();
@@ -70,9 +77,6 @@ public class Subsets {
     private void subsets2(int[] nums, int index, List<Integer> subSet, List<List<Integer>> res) {
         res.add(new ArrayList<>(subSet));
         for (int i = index; i < nums.length; i++) {
-            if (i > index && nums[i] == nums[i - 1]) {
-                continue;
-            }
             subSet.add(nums[i]);
             subsets2(nums, i + 1, subSet, res);
             subSet.remove(subSet.size() - 1);
