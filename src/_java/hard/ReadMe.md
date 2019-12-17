@@ -6,7 +6,9 @@ There are some important problems in hard level.
 - 10 [*****正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)
     - 做题的时候一定要把解答树画出来,根据解答树来判定是 回溯、动规、贪心、…… 等类型问题
     - 回溯和动规通常是不冲突的,动规的时候尽量用自底向上的方式解答
-
+- 23 [***合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
+    - 优先队列
+    - 归并排序
 
 
 
