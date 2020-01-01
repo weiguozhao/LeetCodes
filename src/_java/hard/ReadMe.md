@@ -9,6 +9,8 @@ There are some important problems in hard level.
 - 23 [***合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
     - 优先队列
     - 归并排序
-
+- 32 [*****最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)
+    - 动态规划: **先确定动规问题，然后确定公式每个元素代表的含义，最后确定明确的公式**
+    - 多轮遍历，字符串
 
 
