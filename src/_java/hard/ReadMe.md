@@ -12,5 +12,8 @@ There are some important problems in hard level.
 - 32 [*****最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)
     - 动态规划: **先确定动规问题，然后确定公式每个元素代表的含义，最后确定明确的公式**
     - 多轮遍历，字符串
-
+- 37 [解数独](https://leetcode-cn.com/problems/sudoku-solver/)
+    - 注意字符和整数之间的转换
+        - Int2Char: `char character = (char) (number + '0')`
+        - Char2Int: `int number = charater - '0'`
 
