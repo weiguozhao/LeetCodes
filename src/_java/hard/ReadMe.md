@@ -16,4 +16,10 @@ There are some important problems in hard level.
     - 注意字符和整数之间的转换
         - Int2Char: `char character = (char) (number + '0')`
         - Char2Int: `int number = charater - '0'`
+- 41 [*****缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)
+    - [bitMap](https://leetcode-cn.com/problems/first-missing-positive/solution/que-shi-de-di-yi-ge-zheng-shu-by-leetcode/)
+    - [桶排序](https://leetcode-cn.com/problems/first-missing-positive/solution/tong-pai-xu-python-dai-ma-by-liweiwei1419/)
+
+
+
 
