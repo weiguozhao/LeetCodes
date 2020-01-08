@@ -6,6 +6,14 @@ There are some important problems in hard level.
 - 10 [*****正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)
     - 做题的时候一定要把解答树画出来,根据解答树来判定是 回溯、动规、贪心、…… 等类型问题
     - 回溯和动规通常是不冲突的,动规的时候尽量用自底向上的方式解答
+    - 同44题一起思考，**同样的题目稍微变化了一下条件**
+- 44 [*****通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/)
+    - 动态规划
+        1. 状态定义
+        2. 转移方程
+        3. 状态数组初始化
+    - 贪心
+    - 双指针
 - 23 [***合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
     - 优先队列
     - 归并排序
