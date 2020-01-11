@@ -19,11 +19,17 @@ public class JumpGame_II {
      * 解释: 跳到最后一个位置的最小跳跃数是 2。
      *      从下标为 0 跳到下标为 1 的位置，跳 1 步，然后跳 3 步到达数组的最后一个位置。
      */
+
+    /**
+     * 贪心，每次都要尽力走到最远
+     * */
     public int jump(int[] nums) {
         int steps = 0, maxIndex = 0, reachIndex = 0;
         for (int i = 0; i < nums.length; i++) {
             if (reachIndex < i) {
+                // 走不到这的时候，多走一步step+1
                 steps++;
+                // 更新可以到达的最远index
                 reachIndex = maxIndex;
             }
             maxIndex = Math.max(maxIndex, nums[i] + i);

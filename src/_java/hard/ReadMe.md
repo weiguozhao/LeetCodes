@@ -32,5 +32,6 @@ There are some important problems in hard level.
     - [双指针](https://leetcode-cn.com/problems/trapping-rain-water/solution/xiang-xi-tong-su-de-si-lu-fen-xi-duo-jie-fa-by-w-8/)
     - [动态规划](https://leetcode-cn.com/problems/trapping-rain-water/solution/xiang-xi-tong-su-de-si-lu-fen-xi-duo-jie-fa-by-w-8/)
     - [单调栈](https://leetcode-cn.com/problems/trapping-rain-water/solution/bao-li-jie-fa-yi-kong-jian-huan-shi-jian-zhi-zhen-/)
-
+- 45 [***跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)
+    - 贪心算法
 
