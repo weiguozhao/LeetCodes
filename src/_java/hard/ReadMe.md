@@ -34,4 +34,7 @@ There are some important problems in hard level.
     - [单调栈](https://leetcode-cn.com/problems/trapping-rain-water/solution/bao-li-jie-fa-yi-kong-jian-huan-shi-jian-zhi-zhen-/)
 - 45 [***跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)
     - 贪心算法
-
+- 51 [**N皇后](https://leetcode-cn.com/problems/n-queens/)
+    - 思路很简单，实现要注意细节
+    - 回溯法的通用结构
+    - 同 [52 N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/) 算是一道题目
