@@ -1,59 +1,59 @@
 There are some important problems in medium level.
 --------------
 
-- 3 [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+- 3 [无重复字符的最长子串](/src/_java/medium/LongestSubstringWithoutRepeatingCharacters.java)
     - 滑动窗口
-- 5 [*****最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
+- 5 [*****最长回文子串](/src/_java/medium/LongestPalindromicSubstring.java)
     - 暴力
     - [动态规划](https://leetcode-cn.com/problems/longest-palindromic-substring/solution/zui-chang-hui-wen-zi-chuan-by-leetcode/)
     - 中心拓展
     - [Manacher算法](https://weiguozhao.github.io/2018/05/10/LongestPalindromicSubstring/)
-- 8 [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)
+- 8 [字符串转换整数 (atoi)](/src/_java/medium/StringToInteger.java)
     - 加减法越界判断：看标志位
     - 乘法越界判断：除回来和原来的数字不一样
-- 11 [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)
+- 11 [盛最多水的容器](/src/_java/medium/ContainerWithMostWater.java)
     - 双指针法
-- 17 [***电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
+- 17 [***电话号码的字母组合](/src/_java/medium/LetterCombinationsofaPhoneNumber.java)
     - 回溯
 - add [*KSum](https://leetcode-cn.com/problems/4sum/solution/kshu-zhi-he-de-tong-yong-mo-ban-by-mrxiong/)
     - k个数的和等于给定值
     - 递归；回溯
-- 19 [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/submissions/)
+- 19 [删除链表的倒数第N个节点](/src/_java/medium/RemoveNthNodeFromEndofList.java)
     - 适当添加链表的头节点
-- 29 [两数相除](https://leetcode-cn.com/problems/divide-two-integers/)
+- 29 [两数相除](/src/_java/medium/DivideTwoIntegers.java)
     - 基本上只要是限制使用某些运算的，都需要位操作来实现
-- 31 [**下一个排列](https://leetcode-cn.com/problems/next-permutation/)
+- 31 [**下一个排列](/src/_java/medium/NextPermutation.java)
     - [Wikipedia解法](https://leetcode-cn.com/problems/next-permutation/solution/xia-yi-ge-pai-lie-by-powcai/)
-- 33 [***搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
+- 33 [***搜索旋转排序数组](/src/_java/medium/SearchinRotatedSortedArray.java)
     - 变化的二分查找
     - 讨论区解：分两次找，一次找左边界，第二次找右边界 = log(n) + log(n)
-- 81 [***搜索旋转排序数组II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)
+- 81 [***搜索旋转排序数组II](/src/_java/medium/SearchinRotatedSortedArray_II.java)
     - 变化的二分查找
     - [二分法深入学习](https://www.liwei.party/2019/06/19/leetcode-solution-new/search-insert-position/)
-- 36 [*有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)
+- 36 [*有效的数独](/src/_java/medium/ValidSudoku.java)
     - 重点分析数Box的Index
-- 40 [****组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/)
+- 40 [****组合总和 II](/src/_java/medium/CombinationSum_II.java)
     - 注意要让candidate数组中的每个数都有机会被用到
-- 47 [****全排列 II](https://leetcode-cn.com/problems/permutations-ii)
+- 47 [****全排列 II](/src/_java/medium/Permutations_II.java)
     - 注意[剪枝分析](https://leetcode-cn.com/problems/permutations-ii/solution/hui-su-suan-fa-python-dai-ma-java-dai-ma-by-liwe-2/)
-- 90 [****子集 II](https://leetcode-cn.com/problems/subsets-ii/)
+- 90 [****子集 II](/src/_java/medium/Subsets_II.java)
     - 重复元素的处理方式(注意判断条件的含义)
     - ***和 problem 47/40 对照一起分析***
-- 50 [*Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)
+- 50 [*Pow(x, n)](/src/_java/medium/Pow_xn.java)
     - 学习别人的代码：[思路清晰、代码简洁](https://leetcode-cn.com/problems/powx-n/solution/qing-xi-jian-dan-de-dan-han-shu-di-gui-wu-lei-xing/)
-- 54 [**螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)
+- 54 [**螺旋矩阵](/src/_java/medium/SpiralMatrix.java)
     - 通过[两个数组表示方向访问矩阵进行操作](https://leetcode-cn.com/problems/spiral-matrix/solution/luo-xuan-ju-zhen-by-leetcode/)的典型题目
-- 63 [不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)
+- 63 [不同路径 II](/src/_java/medium/UniquePaths_II.java)
     - 动态规划尽量用自底向上的循环方式，少用自顶向下的递归方式，递归方式容易超时、栈溢出
-- 79 [*****单词搜索](https://leetcode-cn.com/problems/word-search/)
+- 79 [*****单词搜索](/src/_java/medium/WordSearch.java)
     - 二维平面的回溯法
     - 方向偏移数组的使用
     - 类内private变量的使用
-- 80 [删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)
+- 80 [删除排序数组中的重复项 II](/src/_java/medium/RemoveDuplicatesfromSortedArray_II.java)
     - 快慢指针
-- 89 [格雷编码](https://leetcode-cn.com/problems/gray-code/)
+- 89 [格雷编码](/src/_java/medium/GrayCode.java)
     - [格雷码的公式技巧](https://leetcode-cn.com/problems/gray-code/solution/gray-code-jing-xiang-fan-she-fa-by-jyd/)
-- 78 [***子集](https://leetcode-cn.com/problems/subsets/)
+- 78 [***子集](/src/_java/medium/Subsets.java)
     - 注意比较自己写的两个回溯的区别
-- 91 [****解码方法](https://leetcode-cn.com/problems/decode-ways/)
+- 91 [****解码方法](/src/_java/medium/DecodeWays.java)
     - 动态规划

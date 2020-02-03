@@ -1,42 +1,42 @@
 There are some important problems in easy level.
 --------------
 
-- 53 [***** 最大子序列和(maxSubArray)](https://leetcode-cn.com/problems/maximum-subarray/)
+- 53 [***** 最大子序列和(maxSubArray)](/src/_java/easy/MaximumSubarray.java)
     - 动态规划
     - 分治法
-- 69 [** x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
+- 69 [** x 的平方根](/src/_java/easy/Sqrtofx.java)
     - 牛顿迭代法
     - 二分法
-- 70 [***** 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/solution/pa-lou-ti-by-leetcode/)
+- 70 [***** 爬楼梯](/src/_java/easy/ClimbingStairs.java)
     - 暴力
     - 记忆递归
     - 动态规划
-- 101 [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/submissions/)
+- 101 [对称二叉树](/src/_java/easy/SymmetricTree.java)
     - 递归
     - 类广度优先遍历
-- 104 [*** 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/submissions/)
+- 104 [*** 二叉树的最大深度](/src/_java/easy/MaximumDepthofBinaryTree.java)
     - 深度优先遍历(递归)
     - 深度优先遍历(迭代)
     - 广度优先遍历(迭代)
-- 111 [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
+- 111 [二叉树的最小深度](/src/_java/easy/MinimumDepthofBinaryTree.java)
     - 二叉树的先、中、后序遍历
     - 二叉树的递归、迭代遍历
-- 122 [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
+- 122 [买卖股票的最佳时机 II](/src/_java/easy/BestTimetoBuyandSellStock_II.java)
     - 技巧型分析题目(找到其中的关键点)
-- 136 [只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
+- 136 [只出现一次的数字](/src/_java/easy/SingleNumber.java)
     - 位操作-异或
-- 141 [*** 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+- 141 [*** 环形链表](/src/_java/easy/LinkedListCycle.java)
     - 双指针(快慢指针)
-- 155 [最小栈](https://leetcode-cn.com/problems/min-stack/)
+- 155 [最小栈](/src/_java/easy/MinStack.java)
     - [使用辅助栈（同步和不同步，Python 代码、Java 代码）](https://leetcode-cn.com/problems/min-stack/solution/shi-yong-fu-zhu-zhan-tong-bu-he-bu-tong-bu-python-/)
         - 注意下面评论中，对象判断相等的问题(对象==对象：判断内存地址相等；对象.equals(对象)：判断值相等；)
     - 空间换时间的典型问题
-- 169 [** 求众数](https://leetcode-cn.com/problems/majority-element/comments/)
+- 169 [** 求众数](/src/_java/easy/MajorityElement.java)
     - 发现题目限定信息(众数数量超过数组一半)
-- 172 [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)
+- 172 [阶乘后的零](/src/_java/easy/FactorialTrailingZeroes.java)
     - 发现其中的数学规律
-- 189 [** 旋转数组](https://leetcode-cn.com/problems/rotate-array/)
+- 189 [** 旋转数组](/src/_java/easy/RotateArray.java)
     - 利用reverse来处理
-- 202 [*** 快乐数](https://leetcode-cn.com/problems/happy-number/submissions/)
+- 202 [*** 快乐数](/src/_java/easy/HappyNumber.java)
     - 快慢指针,同[链表判断是否有环](https://leetcode-cn.com/problems/linked-list-cycle/)一样的思路
 
