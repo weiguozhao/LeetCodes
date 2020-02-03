@@ -8,7 +8,7 @@ There are some important problems in medium level.
     - [动态规划](https://leetcode-cn.com/problems/longest-palindromic-substring/solution/zui-chang-hui-wen-zi-chuan-by-leetcode/)
     - 中心拓展
     - [Manacher算法](https://weiguozhao.github.io/2018/05/10/LongestPalindromicSubstring/)
-- 8 [字符串转换整数 (atoi)](/src/_java/medium/StringToInteger.java)
+- 8 [字符串转换整数 (atoi)](/src/_java/medium/StringtoInteger.java)
     - 加减法越界判断：看标志位
     - 乘法越界判断：除回来和原来的数字不一样
 - 11 [盛最多水的容器](/src/_java/medium/ContainerWithMostWater.java)
@@ -38,7 +38,7 @@ There are some important problems in medium level.
     - 注意[剪枝分析](https://leetcode-cn.com/problems/permutations-ii/solution/hui-su-suan-fa-python-dai-ma-java-dai-ma-by-liwe-2/)
 - 90 [****子集 II](/src/_java/medium/Subsets_II.java)
     - 重复元素的处理方式(注意判断条件的含义)
-    - ***和 problem 47/40 对照一起分析***
+    - **和 problem 47/40 对照一起分析**
 - 50 [*Pow(x, n)](/src/_java/medium/Pow_xn.java)
     - 学习别人的代码：[思路清晰、代码简洁](https://leetcode-cn.com/problems/powx-n/solution/qing-xi-jian-dan-de-dan-han-shu-di-gui-wu-lei-xing/)
 - 54 [**螺旋矩阵](/src/_java/medium/SpiralMatrix.java)
