@@ -12,4 +12,4 @@ This project is my learning of leetcode.
 
 ### Python Code
 
-- [Hot 100](/src/_python/ReadMe.md)
+- [hot 100](/src/_python/hot100/ReadMe.md)
