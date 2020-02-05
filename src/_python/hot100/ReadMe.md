@@ -11,7 +11,8 @@ some notes
     - 分治思想、归并排序
 - 31 [下一个排列](/src/_python/hot100/31_NextPermutation.py)
     - 题目分析、规律总结
-
+- 32 [最长有效括号](/src/_python/hot100/32_LongestValidParentheses.py)
+    - 分析能力、定义能力
 
 
 
