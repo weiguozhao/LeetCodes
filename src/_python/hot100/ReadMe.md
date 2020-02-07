@@ -13,7 +13,8 @@ some notes
     - 题目分析、规律总结
 - 32 [最长有效括号](/src/_python/hot100/32_LongestValidParentheses.py)
     - 分析能力、定义能力
-
+- 33 [搜索旋转排序数组](/src/_python/hot100/33_SearchinRotatedSortedArray.py)
+    - 二分查找时：+1选左，-1选右
 
 
 
