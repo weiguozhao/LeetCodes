@@ -17,7 +17,8 @@ some notes
     - 二分查找时：+1选左，-1选右
 - 48 [旋转图像](/src/_python/hot100/48_RotateImage.py)
     - 两步走：全转置; 列转置
-
+- 53 [最大子序和](/src/_python/hot100/53_MaximumSubarray.py)
+    - 注意分治法的划分
 
 
 
