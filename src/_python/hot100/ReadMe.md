@@ -15,7 +15,8 @@ some notes
     - 分析能力、定义能力
 - 33 [搜索旋转排序数组](/src/_python/hot100/33_SearchinRotatedSortedArray.py)
     - 二分查找时：+1选左，-1选右
-
+- 48 [旋转图像](/src/_python/hot100/48_RotateImage.py)
+    - 两步走：全转置; 列转置
 
 
 
