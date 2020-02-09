@@ -46,7 +46,6 @@ class TweetCounts:
         if tweetName not in self.tweets.keys():
             self.tweets[tweetName] = []
         self.tweets[tweetName].append(time)
-        self.tweets[tweetName] = sorted(self.tweets[tweetName])
 
     def getTweetCountsPerFrequency(self, freq: str, tweetName: str, startTime: int, endTime: int) -> List[int]:
         interval = self.intervals[freq]

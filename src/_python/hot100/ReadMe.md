@@ -19,7 +19,8 @@ some notes
     - 两步走：全转置; 列转置
 - 53 [最大子序和](/src/_python/hot100/53_MaximumSubarray.py)
     - 注意分治法的划分
-
+- 62 [不同路径](/src/_python/hot100/62_UniquePaths.py)
+    - 动态规划的 **自底向上** 和 **自顶向下**
 
 
 
