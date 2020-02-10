@@ -24,6 +24,8 @@ some notes
 - 72 [******编辑距离**](/src/_python/hot100/72_EditDistance.py)
     - 如何确定动态规划的状态数组及其表示含义
     - [详细解析](https://leetcode-cn.com/problems/edit-distance/solution/zi-di-xiang-shang-he-zi-ding-xiang-xia-by-powcai-3/)
-
+- 75 [颜色分类](/src/_python/hot100/75_SortColors.py)
+    - 多指针
+    - 快速排序的不同partition
 
 
