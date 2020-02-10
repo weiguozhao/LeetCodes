@@ -21,7 +21,9 @@ some notes
     - 注意分治法的划分
 - 62 [不同路径](/src/_python/hot100/62_UniquePaths.py)
     - 动态规划的 **自底向上** 和 **自顶向下**
-
+- 72 [******编辑距离**](/src/_python/hot100/72_EditDistance.py)
+    - 如何确定动态规划的状态数组及其表示含义
+    - [详细解析](https://leetcode-cn.com/problems/edit-distance/solution/zi-di-xiang-shang-he-zi-ding-xiang-xia-by-powcai-3/)
 
 
 
