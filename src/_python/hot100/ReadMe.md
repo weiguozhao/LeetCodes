@@ -27,5 +27,8 @@ some notes
 - 75 [颜色分类](/src/_python/hot100/75_SortColors.py)
     - 多指针
     - 快速排序的不同partition
+- 76 [最小覆盖子串](/src/_python/hot100/76_MinimumWindowSubstring.py)
+    - 滑动窗口的题目
+    - [详细题解](https://leetcode-cn.com/problems/minimum-window-substring/solution/zui-xiao-fu-gai-zi-chuan-by-leetcode-2/)
 
 
