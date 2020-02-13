@@ -61,12 +61,10 @@ class Solution:
     def mergeKListsDivideConquer(self, lists: List[ListNode]) -> ListNode:
         """
         分治法
-        :param lists:
-        :return:
         """
-        return self.mergeTwoPartLists(lists, 0, len(lists) - 1)
+        return self._partition_(lists, 0, len(lists) - 1)
 
-    def mergeTwoPartLists(self, lists: List[ListNode], left: int, right: int) -> ListNode:
+    def _partition_(self, lists: List[ListNode], left: int, right: int) -> ListNode:
         if left > right:
             return None
 
@@ -74,11 +72,11 @@ class Solution:
             return lists[left]
 
         mid = (left + right) >> 1
-        left_res = self.mergeTwoPartLists(lists, left, mid)
-        right_res = self.mergeTwoPartLists(lists, mid + 1, right)
-        return self.mergeTwoListNodes(left_res, right_res)
+        left_res = self._partition_(lists, left, mid)
+        right_res = self._partition_(lists, mid + 1, right)
+        return self._merge_(left_res, right_res)
 
-    def mergeTwoListNodes(self, list1: ListNode, list2: ListNode) -> ListNode:
+    def _merge_(self, list1: ListNode, list2: ListNode) -> ListNode:
         head = ListNode(0)
         point = head
 
