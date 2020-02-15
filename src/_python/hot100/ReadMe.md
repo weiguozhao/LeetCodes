@@ -34,4 +34,10 @@ some notes
     - 每一个根`i`他都是由左边子树`(1, 2, ..., i-1)`和右边子树`(i+1, i+2,..., n)`组成的，个数是两个子树情况的乘积，根的选择有n种。
 - 98 [验证二叉搜索树](/src/_python/hot100/98_ValidateBinarySearchTree.py)
     - 树的遍历搜索
+- 114 [***二叉树展开为链表](/src/_python/hot100/114_FlattenBinaryTreetoLinkedList.py)
+    - [详细通俗的思路分析，多解法](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/solution/xiang-xi-tong-su-de-si-lu-fen-xi-duo-jie-fa-by--26/)
+
+
+
+
 
