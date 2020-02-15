@@ -36,7 +36,8 @@ some notes
     - 树的遍历搜索
 - 114 [***二叉树展开为链表](/src/_python/hot100/114_FlattenBinaryTreetoLinkedList.py)
     - [详细通俗的思路分析，多解法](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/solution/xiang-xi-tong-su-de-si-lu-fen-xi-duo-jie-fa-by--26/)
-
+- 124 [二叉树中的最大路径和](/src/_python/hot100/124_BinaryTreeMaximumPathSum.py)
+    - 注意理解 **路径** 的含义，对一个节点只能经过一次
 
 
 
