@@ -38,7 +38,8 @@ some notes
     - [详细通俗的思路分析，多解法](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/solution/xiang-xi-tong-su-de-si-lu-fen-xi-duo-jie-fa-by--26/)
 - 124 [二叉树中的最大路径和](/src/_python/hot100/124_BinaryTreeMaximumPathSum.py)
     - 注意理解 **路径** 的含义，对一个节点只能经过一次
-
+- 128 [*最长连续序列](/src/_python/hot100/128_LongestConsecutiveSequence.py)
+    - 先想暴力解答(brute force solution)，然后在暴力解答的基础上进行时间、空间的优化
 
 
 
