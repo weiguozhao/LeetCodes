@@ -40,6 +40,8 @@ some notes
     - 注意理解 **路径** 的含义，对一个节点只能经过一次
 - 128 [*最长连续序列](/src/_python/hot100/128_LongestConsecutiveSequence.py)
     - 先想暴力解答(brute force solution)，然后在暴力解答的基础上进行时间、空间的优化
-
+- 139 [*****单词拆分**](/src/_python/hot100/139_WordBreak.py)
+    - 暴力(回溯)、回溯+记忆化、广度优先、动态规划
+    - [详细题解](https://leetcode-cn.com/problems/word-break/solution/dan-ci-chai-fen-by-leetcode/)
 
 
