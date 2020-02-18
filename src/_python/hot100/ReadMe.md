@@ -43,5 +43,6 @@ some notes
 - 139 [*****单词拆分**](/src/_python/hot100/139_WordBreak.py)
     - 暴力(回溯)、回溯+记忆化、广度优先、动态规划
     - [详细题解](https://leetcode-cn.com/problems/word-break/solution/dan-ci-chai-fen-by-leetcode/)
-
+- 146 [**LRU缓存机制](/src/_python/hot100/146_LRUCache.py)
+    - hash表+双向链表
 
