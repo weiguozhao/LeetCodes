@@ -47,6 +47,8 @@ some notes
     - hash表+双向链表
 - 148 [排序链表](/src/_python/hot100/148_SortList.py)
     - 需要用**迭代的归并排序**
-
+- 152 [乘积最大子序列](/src/_python/hot100/152_MaximumProductSubarray.py)
+    - 子串问题一定是动态规划
+    - [相似问题-最大连续子数组和](/src/_java/easy/MaximumSubarray.java)
 
 
