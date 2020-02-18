@@ -45,4 +45,8 @@ some notes
     - [详细题解](https://leetcode-cn.com/problems/word-break/solution/dan-ci-chai-fen-by-leetcode/)
 - 146 [**LRU缓存机制](/src/_python/hot100/146_LRUCache.py)
     - hash表+双向链表
+- 148 [排序链表](/src/_python/hot100/148_SortList.py)
+    - 需要用**迭代的归并排序**
+
+
 
