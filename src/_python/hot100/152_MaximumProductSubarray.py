@@ -38,8 +38,27 @@ class Solution:
 
         return ans
 
+    def maxProduct_memo(self, nums: List[int]) -> int:
+        """memo动态规划"""
+        length = len(nums)
+        memo_max = [-sys.maxsize - 1 for _ in range(length)]
+        memo_min = [sys.maxsize for _ in range(length)]
+        ans = -sys.maxsize - 1
+
+        for i in range(length):
+            if nums[i] < 0:
+                temp = memo_max[i]
+                memo_max[i] = memo_min[i]
+                memo_min[i] = temp
+
+            memo_max[i] = max(memo_max[i] * nums[i], nums[i])
+            memo_min[i] = min(memo_min[i] * nums[i], nums[i])
+            ans = max(ans, memo_max[i])
+
+        return ans
+
 
 if __name__ == '__main__':
     nums = [-2, 0, -1]
-    res = Solution().maxProduct(nums)
+    res = Solution().maxProduct_memo(nums)
     print(res)
