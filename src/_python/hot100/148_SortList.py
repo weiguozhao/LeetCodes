@@ -55,6 +55,7 @@ class Solution:
             else:
                 p.next = right_ans
                 right_ans = right_ans.next
+            p = p.next
         p.next = left_ans if not right_ans else right_ans
         return ans.next
 
@@ -104,4 +105,13 @@ class Solution:
 
 
 if __name__ == '__main__':
-    pass
+    head = ListNode(4)
+    head.next = ListNode(2)
+    head.next.next = ListNode(1)
+    head.next.next.next = ListNode(3)
+
+    res = Solution().sortList(head)
+    while res:
+        print(res.val, end=" ")
+        res = res.next
+
