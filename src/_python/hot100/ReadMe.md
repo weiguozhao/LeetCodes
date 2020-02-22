@@ -52,4 +52,5 @@ some notes
     - [相似问题-最大连续子数组和](/src/_java/easy/MaximumSubarray.java)
 - 200 [***岛屿数量](/src/_python/hot100/200_NumberofIslands.py)
     - 搜索、并查集
+    - [并查集介绍](https://blog.csdn.net/liujian20150808/article/details/50848646)
 
