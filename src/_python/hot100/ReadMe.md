@@ -53,4 +53,12 @@ some notes
 - 200 [***岛屿数量](/src/_python/hot100/200_NumberofIslands.py)
     - 搜索、并查集
     - [并查集介绍](https://blog.csdn.net/liujian20150808/article/details/50848646)
+- 207 [***课程表](/src/_python/hot100/207_CourseSchedule.py)
+    - 图相关题目
+    - 拓扑排序
+    - [详细题解](https://leetcode-cn.com/problems/course-schedule/solution/course-schedule-tuo-bu-pai-xu-bfsdfsliang-chong-fa/)
+    
+
+
+
 
