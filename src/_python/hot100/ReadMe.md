@@ -57,7 +57,8 @@ some notes
     - 图相关题目
     - 拓扑排序
     - [详细题解](https://leetcode-cn.com/problems/course-schedule/solution/course-schedule-tuo-bu-pai-xu-bfsdfsliang-chong-fa/)
-    
+- 221 [***最大正方形](/src/_python/hot100/221_MaximalSquare.py)
+    - 最值出现优先考虑动态规划
 
 
 
