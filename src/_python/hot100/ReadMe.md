@@ -59,7 +59,9 @@ some notes
     - [详细题解](https://leetcode-cn.com/problems/course-schedule/solution/course-schedule-tuo-bu-pai-xu-bfsdfsliang-chong-fa/)
 - 221 [***最大正方形](/src/_python/hot100/221_MaximalSquare.py)
     - 最值出现优先考虑动态规划
-
+- 239 [滑动窗口最大值](/src/_python/hot100/239_SlidingWindowMaximum.py)
+    - 双向队列
+    - 动态规划[没看懂](https://leetcode-cn.com/problems/sliding-window-maximum/solution/hua-dong-chuang-kou-zui-da-zhi-by-leetcode-3/)
 
 
 
