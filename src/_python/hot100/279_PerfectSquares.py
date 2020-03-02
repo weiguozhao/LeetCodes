@@ -26,8 +26,7 @@ class Solution:
 
         for i in range(1, n + 1):
             # 不断去尝试减去一个平方数 j * j
-            j = 1
-            while i - j * j >= 0:
+            for j in range(1, int(i ** 0.5) + 1):
                 memo[i] = min(memo[i], memo[i - j * j] + 1)
                 j += 1
 

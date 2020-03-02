@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b9f4e81-62c2-4c40-9598-1f17f58d21fa" name="Default Changelist" comment="add problem 2">
-      <change afterPath="$PROJECT_DIR$/hot100/279_PerfectSquares.py" afterDir="false" />
+    <list default="true" id="9b9f4e81-62c2-4c40-9598-1f17f58d21fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hot100/283_MoveZeroes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hot100/279_PerfectSquares.py" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/279_PerfectSquares.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,7 @@
     <SUITE FILE_PATH="coverage/_python$208_ImplementTriePrefixTree.coverage" NAME="208_ImplementTriePrefixTree Coverage Results" MODIFIED="1582679378530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/_python$2_AddTwoNumbers.coverage" NAME="2_AddTwoNumbers Coverage Results" MODIFIED="1580807444867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/_python$5347.coverage" NAME="5347 Coverage Results" MODIFIED="1583135768363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/178_contest" />
-    <SUITE FILE_PATH="coverage/_python$279_PerfectSquares.coverage" NAME="279_PerfectSquares Coverage Results" MODIFIED="1583153839384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
+    <SUITE FILE_PATH="coverage/_python$279_PerfectSquares.coverage" NAME="279_PerfectSquares Coverage Results" MODIFIED="1583154364736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/_python$49_GroupAnagrams.coverage" NAME="49_GroupAnagrams Coverage Results" MODIFIED="1581141172480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/_python$105_ConstructBinaryTreefromPreorderandInorderTraversal.coverage" NAME="105_ConstructBinaryTreefromPreorderandInorderTraversal Coverage Results" MODIFIED="1581675297702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/_python$5_LongestPalindromicSubstring.coverage" NAME="5_LongestPalindromicSubstring Coverage Results" MODIFIED="1579481250534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -90,6 +90,7 @@
     <SUITE FILE_PATH="coverage/_python$5332.coverage" NAME="5332 Coverage Results" MODIFIED="1581216367790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/175_week_competition" />
     <SUITE FILE_PATH="coverage/_python$79_WordSearch.coverage" NAME="79_WordSearch Coverage Results" MODIFIED="1581407486307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/_python$101_SymmetricTree.coverage" NAME="101_SymmetricTree Coverage Results" MODIFIED="1581593836683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
+    <SUITE FILE_PATH="coverage/_python$283_MoveZeroes.coverage" NAME="283_MoveZeroes Coverage Results" MODIFIED="1583154920420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/_python$238_ProductofArrayExceptSelf.coverage" NAME="238_ProductofArrayExceptSelf Coverage Results" MODIFIED="1583026243173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/_python$5343.coverage" NAME="5343 Coverage Results" MODIFIED="1581830814861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/176_week_competition" />
     <SUITE FILE_PATH="coverage/_python$5171.coverage" NAME="5171 Coverage Results" MODIFIED="1582426969266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/177_week_competition" />
@@ -98,23 +99,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hot100/279_PerfectSquares.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hot100/ReadMe.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="714">
-                <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/hot100/283_MoveZeroes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="471">
+              <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -139,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hot100/23_MergekSortedLists.py" />
         <option value="$PROJECT_DIR$/hot100/101_SymmetricTree.py" />
         <option value="$PROJECT_DIR$/hot100/102_BinaryTreeLevelOrderTraversal.py" />
         <option value="$PROJECT_DIR$/hot100/104_MaximumDepthofBinaryTree.py" />
@@ -188,8 +176,9 @@
         <option value="$PROJECT_DIR$/178_week_competition/5347.py" />
         <option value="$PROJECT_DIR$/178_contest/5347.py" />
         <option value="$PROJECT_DIR$/hot100/240_Searcha2dMatrix_II.py" />
-        <option value="$PROJECT_DIR$/hot100/279_PerfectSquares.py" />
         <option value="$PROJECT_DIR$/hot100/ReadMe.md" />
+        <option value="$PROJECT_DIR$/hot100/279_PerfectSquares.py" />
+        <option value="$PROJECT_DIR$/hot100/283_MoveZeroes.py" />
       </list>
     </option>
   </component>
@@ -249,7 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.279_PerfectSquares">
+  <component name="RunManager" selected="Python.283_MoveZeroes">
     <configuration name="240_Searcha2dMatrix_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -294,7 +283,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5345" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="283_MoveZeroes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -302,12 +291,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/178_week_competition" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hot100" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/178_week_competition/5345.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hot100/283_MoveZeroes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -362,11 +351,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.283_MoveZeroes" />
         <item itemvalue="Python.279_PerfectSquares" />
         <item itemvalue="Python.240_Searcha2dMatrix_II" />
         <item itemvalue="Python.5347" />
         <item itemvalue="Python.5346" />
-        <item itemvalue="Python.5345" />
       </list>
     </recent_temporary>
   </component>
@@ -396,14 +385,7 @@
       <workItem from="1582677714557" duration="2678000" />
       <workItem from="1582681288136" duration="4664000" />
       <workItem from="1582878537735" duration="10409000" />
-      <workItem from="1583067928908" duration="7661000" />
-    </task>
-    <task id="LOCAL-00033" summary="add problem 64">
-      <created>1581240812344</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1581240812344</updated>
+      <workItem from="1583067928908" duration="8373000" />
     </task>
     <task id="LOCAL-00034" summary="add problem 70">
       <created>1581299025845</created>
@@ -741,11 +723,18 @@
       <option name="project" value="LOCAL" />
       <updated>1583153258883</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="add problem 279">
+      <created>1583154114375</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1583154114375</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="194161000" />
+    <option name="totallyTimeSpent" value="194873000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -765,7 +754,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49627262" weight="0.21125266" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49627262" visible="true" weight="0.21125266" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34288746" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -828,7 +817,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add problem 139" />
     <MESSAGE value="add problem 141" />
     <MESSAGE value="add problem 142" />
     <MESSAGE value="add problem 146" />
@@ -853,7 +841,8 @@
     <MESSAGE value="add problem 239 and need TODO" />
     <MESSAGE value="add 178 contest" />
     <MESSAGE value="add problem 240" />
-    <option name="LAST_COMMIT_MESSAGE" value="add problem 240" />
+    <MESSAGE value="add problem 279" />
+    <option name="LAST_COMMIT_MESSAGE" value="add problem 279" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -938,13 +927,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hot100/114_FlattenBinaryTreetoLinkedList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1531">
-          <caret line="100" column="17" lean-forward="true" selection-start-line="100" selection-start-column="17" selection-end-line="100" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/176_contest/5340.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="318">
@@ -1300,20 +1282,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hot100/279_PerfectSquares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hot100/ReadMe.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="714">
+          <first_editor relative-caret-position="811">
             <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hot100/279_PerfectSquares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="28" column="49" lean-forward="true" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hot100/283_MoveZeroes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
         </state>
       </provider>
     </entry>
