@@ -64,5 +64,6 @@ some notes
     - 动态规划[没看懂](https://leetcode-cn.com/problems/sliding-window-maximum/solution/hua-dong-chuang-kou-zui-da-zhi-by-leetcode-3/)
 - 279 [*完全平方数](/src/_python/hot100/279_PerfectSquares.py)
     - 动态规划
-
+- 287 [寻找重复数](/src/_python/hot100/287_FindtheDuplicateNumber.py)
+    - 鸽舍原理
 
