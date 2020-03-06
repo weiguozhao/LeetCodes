@@ -66,4 +66,7 @@ some notes
     - 动态规划
 - 287 [寻找重复数](/src/_python/hot100/287_FindtheDuplicateNumber.py)
     - 鸽舍原理
-
+- 297 [二叉树的序列化与反序列化](/src/_python/hot100/297_SerializeandDeserializeBinaryTree.py)
+    - 层序遍历/深度遍历
+- 300 [*最长上升子序列](/src/_python/hot100/300_LongestIncreasingSubsequence.py)
+    - 动态规划的优化

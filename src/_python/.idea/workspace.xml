@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b9f4e81-62c2-4c40-9598-1f17f58d21fa" name="Default Changelist" comment="add problem 287">
-      <change afterPath="$PROJECT_DIR$/hot100/297_SerializeandDeserializeBinaryTree.py" afterDir="false" />
+    <list default="true" id="9b9f4e81-62c2-4c40-9598-1f17f58d21fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hot100/300_LongestIncreasingSubsequence.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hot100/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/ReadMe.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +36,7 @@
     <SUITE FILE_PATH="coverage/_python$5334.coverage" NAME="5334 Coverage Results" MODIFIED="1581218104218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/175_week_competition" />
     <SUITE FILE_PATH="coverage/_python$62_UniquePaths.coverage" NAME="62_UniquePaths Coverage Results" MODIFIED="1581235929364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/_python$124_BinaryTreeMaximumPathSum.coverage" NAME="124_BinaryTreeMaximumPathSum Coverage Results" MODIFIED="1581759576098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
+    <SUITE FILE_PATH="coverage/_python$300_LongestIncreasingSubsequence.coverage" NAME="300_LongestIncreasingSubsequence Coverage Results" MODIFIED="1583399613204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/_python$207_CourseSchedule.coverage" NAME="207_CourseSchedule Coverage Results" MODIFIED="1582619808057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/_python$136_SingleNumber.coverage" NAME="136_SingleNumber Coverage Results" MODIFIED="1581911405746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/_python$34_FindFirstandLastPositionofElementinSortedArray.coverage" NAME="34_FindFirstandLastPositionofElementinSortedArray Coverage Results" MODIFIED="1581066198751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
@@ -99,11 +101,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hot100/297_SerializeandDeserializeBinaryTree.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hot100/300_LongestIncreasingSubsequence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="709">
+              <caret line="41" column="134" selection-start-line="41" selection-start-column="134" selection-end-line="41" selection-end-column="134" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hot100/ReadMe.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="759">
+                <caret line="70" column="8" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="8" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -128,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hot100/104_MaximumDepthofBinaryTree.py" />
         <option value="$PROJECT_DIR$/hot100/105_ConstructBinaryTreefromPreorderandInorderTraversal.py" />
         <option value="$PROJECT_DIR$/hot100/121_BestTimetoBuyandSellStock.py" />
         <option value="$PROJECT_DIR$/hot100/124_BinaryTreeMaximumPathSum.py" />
@@ -177,16 +190,17 @@
         <option value="$PROJECT_DIR$/hot100/279_PerfectSquares.py" />
         <option value="$PROJECT_DIR$/hot100/283_MoveZeroes.py" />
         <option value="$PROJECT_DIR$/hot100/287_FindtheDuplicateNumber.py" />
-        <option value="$PROJECT_DIR$/hot100/ReadMe.md" />
         <option value="$PROJECT_DIR$/hot100/297_SerializeandDeserializeBinaryTree.py" />
+        <option value="$PROJECT_DIR$/hot100/300_LongestIncreasingSubsequence.py" />
+        <option value="$PROJECT_DIR$/hot100/ReadMe.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-241" />
-    <option name="y" value="-1057" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="x" value="282" />
+    <option name="y" value="-877" />
+    <option name="width" value="1397" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -200,6 +214,11 @@
             <path>
               <item name="_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="_python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_python" type="462c0819:PsiDirectoryNode" />
+              <item name="hot100" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -233,7 +252,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.297_SerializeandDeserializeBinaryTree">
+  <component name="RunManager" selected="Python.300_LongestIncreasingSubsequence">
     <configuration name="240_Searcha2dMatrix_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -322,7 +341,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5347" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="300_LongestIncreasingSubsequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -330,12 +349,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/178_contest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hot100" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/178_contest/5347.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hot100/300_LongestIncreasingSubsequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -346,11 +365,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.300_LongestIncreasingSubsequence" />
         <item itemvalue="Python.297_SerializeandDeserializeBinaryTree" />
         <item itemvalue="Python.283_MoveZeroes" />
         <item itemvalue="Python.279_PerfectSquares" />
         <item itemvalue="Python.240_Searcha2dMatrix_II" />
-        <item itemvalue="Python.5347" />
       </list>
     </recent_temporary>
   </component>
@@ -381,14 +400,7 @@
       <workItem from="1582681288136" duration="4664000" />
       <workItem from="1582878537735" duration="10409000" />
       <workItem from="1583067928908" duration="11647000" />
-      <workItem from="1583316291100" duration="4738000" />
-    </task>
-    <task id="LOCAL-00036" summary="add problem 75">
-      <created>1581320741467</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1581320741467</updated>
+      <workItem from="1583316291100" duration="11028000" />
     </task>
     <task id="LOCAL-00037" summary="add problem 76 which use sliding windows algorithm">
       <created>1581388685127</created>
@@ -726,11 +738,18 @@
       <option name="project" value="LOCAL" />
       <updated>1583202146736</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="add problem 297">
+      <created>1583325364444</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1583325364445</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="202885000" />
+    <option name="totallyTimeSpent" value="209175000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -742,15 +761,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-240" y="-1057" width="1920" height="1057" extended-state="6" />
+    <frame x="-241" y="-1057" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19542067" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13312034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49574015" weight="0.21125266" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49574015" weight="0.28131634" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34288746" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -813,7 +832,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add problem 146" />
     <MESSAGE value="add problem 148" />
     <MESSAGE value="add problem 152" />
     <MESSAGE value="update problem 148" />
@@ -838,7 +856,8 @@
     <MESSAGE value="add problem 279" />
     <MESSAGE value="add problem 283" />
     <MESSAGE value="add problem 287" />
-    <option name="LAST_COMMIT_MESSAGE" value="add problem 287" />
+    <MESSAGE value="add problem 297" />
+    <option name="LAST_COMMIT_MESSAGE" value="add problem 297" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -923,13 +942,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/175_contest/5332.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/175_contest/5333.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
@@ -1278,16 +1290,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hot100/ReadMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="1273">
-            <caret line="67" column="10" lean-forward="true" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hot100/287_FindtheDuplicateNumber.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="649">
@@ -1299,6 +1301,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hot100/300_LongestIncreasingSubsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="709">
+          <caret line="41" column="134" selection-start-line="41" selection-start-column="134" selection-end-line="41" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hot100/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="759">
+            <caret line="70" column="8" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
