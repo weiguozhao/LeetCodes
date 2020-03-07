@@ -27,6 +27,7 @@ class Solution:
     def removeInvalidParentheses(self, s: str) -> List[str]:
         """
         广度优先遍历 + 剪枝
+        https://blog.csdn.net/u010005161/article/details/52386001
         """
 
         def is_valid(seq) -> bool:
