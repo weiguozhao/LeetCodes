@@ -2,9 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b9f4e81-62c2-4c40-9598-1f17f58d21fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/_cpp.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/_cpp.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/_cpp.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/_cpp.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/_cpp.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/_cpp.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/_cpp.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/_cpp.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cpp/cmake-build-debug/cmake_install.cmake" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hot100/309_BestTimetoBuyAndSellStockWithCooldown.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/301_RemoveInvalidParentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/301_RemoveInvalidParentheses.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +52,7 @@
     <SUITE FILE_PATH="coverage/_python$39_CombinationSum.coverage" NAME="39_CombinationSum Coverage Results" MODIFIED="1581125165120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/_python$48_RotateImage.coverage" NAME="48_RotateImage Coverage Results" MODIFIED="1581131477519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/_python$94_BinaryTreeInorderTraversal.coverage" NAME="94_BinaryTreeInorderTraversal Coverage Results" MODIFIED="1581409794931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
+    <SUITE FILE_PATH="coverage/_python$MaxQueue.coverage" NAME="MaxQueue Coverage Results" MODIFIED="1583566803687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
     <SUITE FILE_PATH="coverage/_python$56_MergeIntervals.coverage" NAME="56_MergeIntervals Coverage Results" MODIFIED="1581212028342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/_python$5345.coverage" NAME="5345 Coverage Results" MODIFIED="1583031565517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/178_week_competition" />
     <SUITE FILE_PATH="coverage/_python$5342.coverage" NAME="5342 Coverage Results" MODIFIED="1581825832805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/176_week_competition" />
@@ -101,12 +131,12 @@
     <SUITE FILE_PATH="coverage/_python$240_Searcha2dMatrix_II.coverage" NAME="240_Searcha2dMatrix_II Coverage Results" MODIFIED="1583152997067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hot100/309_BestTimetoBuyAndSellStockWithCooldown.py">
+        <entry file="file://$PROJECT_DIR$/data_structure/MaxQueue.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="686">
+              <caret line="65" column="28" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -131,8 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hot100/124_BinaryTreeMaximumPathSum.py" />
-        <option value="$PROJECT_DIR$/hot100/114_FlattenBinaryTreetoLinkedList.py" />
         <option value="$PROJECT_DIR$/176_week_competition/5340.py" />
         <option value="$PROJECT_DIR$/176_week_competition/5341.py" />
         <option value="$PROJECT_DIR$/175_week_competition/5335.py" />
@@ -182,6 +210,8 @@
         <option value="$PROJECT_DIR$/hot100/ReadMe.md" />
         <option value="$PROJECT_DIR$/hot100/301_RemoveInvalidParentheses.py" />
         <option value="$PROJECT_DIR$/hot100/309_BestTimetoBuyAndSellStockWithCooldown.py" />
+        <option value="$PROJECT_DIR$/179_contest/test.py" />
+        <option value="$PROJECT_DIR$/data_structure/MaxQueue.py" />
       </list>
     </option>
   </component>
@@ -203,6 +233,11 @@
             <path>
               <item name="_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="_python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_python" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -236,29 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.301_RemoveInvalidParentheses">
-    <configuration name="279_PerfectSquares" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hot100" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hot100/279_PerfectSquares.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.MaxQueue">
     <configuration name="283_MoveZeroes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -347,13 +360,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="MaxQueue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/MaxQueue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MaxQueue" />
         <item itemvalue="Python.301_RemoveInvalidParentheses" />
         <item itemvalue="Python.300_LongestIncreasingSubsequence" />
         <item itemvalue="Python.297_SerializeandDeserializeBinaryTree" />
         <item itemvalue="Python.283_MoveZeroes" />
-        <item itemvalue="Python.279_PerfectSquares" />
       </list>
     </recent_temporary>
   </component>
@@ -385,6 +420,7 @@
       <workItem from="1582878537735" duration="10409000" />
       <workItem from="1583067928908" duration="11647000" />
       <workItem from="1583316291100" duration="15107000" />
+      <workItem from="1583565786053" duration="990000" />
     </task>
     <task id="LOCAL-00039" summary="add problem 78">
       <created>1581404490303</created>
@@ -733,7 +769,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="213254000" />
+    <option name="totallyTimeSpent" value="214244000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -746,6 +782,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-241" y="-1057" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25985092" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -925,27 +962,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/176_contest/5342.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="55" column="28" lean-forward="true" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/175_contest/5335.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-746">
-          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Softwares/anaconda3/envs/env_py3/lib/python3.6/queue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="213" column="6" selection-start-line="213" selection-start-column="6" selection-end-line="213" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/176_contest/5343.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
@@ -1273,13 +1289,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1015846289/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="3629" column="8" selection-start-line="3629" selection-start-column="8" selection-end-line="3629" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hot100/ReadMe.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1300,7 +1309,35 @@
     <entry file="file://$PROJECT_DIR$/hot100/309_BestTimetoBuyAndSellStockWithCooldown.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Softwares/anaconda3/envs/env_py3/lib/python3.6/queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="147" column="11" lean-forward="true" selection-start-line="147" selection-start-column="11" selection-end-line="147" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1015846289/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="3629" column="8" selection-start-line="3629" selection-start-column="8" selection-end-line="3629" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/179_contest/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structure/MaxQueue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="65" column="28" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
         </state>
       </provider>
     </entry>
