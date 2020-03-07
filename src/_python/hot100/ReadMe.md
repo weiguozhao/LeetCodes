@@ -70,3 +70,6 @@ some notes
     - 层序遍历/深度遍历
 - 300 [*最长上升子序列](/src/_python/hot100/300_LongestIncreasingSubsequence.py)
     - 动态规划的优化
+- 301 [**删除无效的括号](/src/_python/hot100/301_RemoveInvalidParentheses.py)
+    - bfs+剪枝
+

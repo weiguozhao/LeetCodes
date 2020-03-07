@@ -27,11 +27,12 @@ class Solution:
         if length < 2:
             return length
         memo = [1 for _ in range(length)]
+        ans = 1
         for i in range(1, length):
             for j in range(i):
                 if nums[i] > nums[j]:
                     memo[i] = max(memo[i], memo[j] + 1)
-
+                ans = max(ans, memo[i])
         return memo[length - 1]
 
     def lengthOfLISDynamicProgramAndBinarySearch(self, nums: List[int]) -> int:

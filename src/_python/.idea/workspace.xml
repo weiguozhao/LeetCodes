@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b9f4e81-62c2-4c40-9598-1f17f58d21fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hot100/300_LongestIncreasingSubsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hot100/301_RemoveInvalidParentheses.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hot100/300_LongestIncreasingSubsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/300_LongestIncreasingSubsequence.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hot100/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/ReadMe.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,6 +69,7 @@
     <SUITE FILE_PATH="coverage/_python$5335.coverage" NAME="5335 Coverage Results" MODIFIED="1581226682082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/175_week_competition" />
     <SUITE FILE_PATH="coverage/_python$234_PalindromeLinkedList.coverage" NAME="234_PalindromeLinkedList Coverage Results" MODIFIED="1582685598774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/_python$11_ContainerWithMostWater.coverage" NAME="11_ContainerWithMostWater Coverage Results" MODIFIED="1580783142587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_python$301_RemoveInvalidParentheses.coverage" NAME="301_RemoveInvalidParentheses Coverage Results" MODIFIED="1583563607662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/_python$141_LinkedListCycle.coverage" NAME="141_LinkedListCycle Coverage Results" MODIFIED="1581993167361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/_python$96_UniqueBinarySearchTrees.coverage" NAME="96_UniqueBinarySearchTrees Coverage Results" MODIFIED="1581413179706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/_python$5169.coverage" NAME="5169 Coverage Results" MODIFIED="1582426099946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/177_week_competition" />
@@ -102,10 +104,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hot100/300_LongestIncreasingSubsequence.py">
+        <entry file="file://$PROJECT_DIR$/hot100/301_RemoveInvalidParentheses.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="709">
-              <caret line="41" column="134" selection-start-line="41" selection-start-column="134" selection-end-line="41" selection-end-column="134" />
+            <state relative-caret-position="715">
+              <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+              <folding>
+                <element signature="e#2039#2422#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,8 +119,8 @@
         <entry file="file://$PROJECT_DIR$/hot100/ReadMe.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="759">
-                <caret line="70" column="8" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="8" />
+              <first_editor relative-caret-position="690">
+                <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
               </first_editor>
               <second_editor />
             </state>
@@ -142,7 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hot100/105_ConstructBinaryTreefromPreorderandInorderTraversal.py" />
         <option value="$PROJECT_DIR$/hot100/121_BestTimetoBuyandSellStock.py" />
         <option value="$PROJECT_DIR$/hot100/124_BinaryTreeMaximumPathSum.py" />
         <option value="$PROJECT_DIR$/hot100/114_FlattenBinaryTreetoLinkedList.py" />
@@ -192,15 +196,16 @@
         <option value="$PROJECT_DIR$/hot100/287_FindtheDuplicateNumber.py" />
         <option value="$PROJECT_DIR$/hot100/297_SerializeandDeserializeBinaryTree.py" />
         <option value="$PROJECT_DIR$/hot100/300_LongestIncreasingSubsequence.py" />
+        <option value="$PROJECT_DIR$/hot100/301_RemoveInvalidParentheses.py" />
         <option value="$PROJECT_DIR$/hot100/ReadMe.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="282" />
-    <option name="y" value="-877" />
-    <option name="width" value="1397" />
-    <option name="height" value="877" />
+    <option name="x" value="-241" />
+    <option name="y" value="-1057" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -252,29 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.300_LongestIncreasingSubsequence">
-    <configuration name="240_Searcha2dMatrix_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hot100" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hot100/240_Searcha2dMatrix_II.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.301_RemoveInvalidParentheses">
     <configuration name="279_PerfectSquares" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -363,13 +346,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="301_RemoveInvalidParentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hot100" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hot100/301_RemoveInvalidParentheses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.301_RemoveInvalidParentheses" />
         <item itemvalue="Python.300_LongestIncreasingSubsequence" />
         <item itemvalue="Python.297_SerializeandDeserializeBinaryTree" />
         <item itemvalue="Python.283_MoveZeroes" />
         <item itemvalue="Python.279_PerfectSquares" />
-        <item itemvalue="Python.240_Searcha2dMatrix_II" />
       </list>
     </recent_temporary>
   </component>
@@ -400,14 +405,7 @@
       <workItem from="1582681288136" duration="4664000" />
       <workItem from="1582878537735" duration="10409000" />
       <workItem from="1583067928908" duration="11647000" />
-      <workItem from="1583316291100" duration="11028000" />
-    </task>
-    <task id="LOCAL-00037" summary="add problem 76 which use sliding windows algorithm">
-      <created>1581388685127</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1581388685127</updated>
+      <workItem from="1583316291100" duration="14410000" />
     </task>
     <task id="LOCAL-00038" summary="update readme">
       <created>1581403460312</created>
@@ -745,11 +743,18 @@
       <option name="project" value="LOCAL" />
       <updated>1583325364445</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="add problem 300">
+      <created>1583480796258</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1583480796259</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209175000" />
+    <option name="totallyTimeSpent" value="212557000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -769,7 +774,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49574015" weight="0.28131634" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49574015" visible="true" weight="0.13375796" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34288746" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -832,7 +837,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add problem 148" />
     <MESSAGE value="add problem 152" />
     <MESSAGE value="update problem 148" />
     <MESSAGE value="update problem 152" />
@@ -857,7 +861,8 @@
     <MESSAGE value="add problem 283" />
     <MESSAGE value="add problem 287" />
     <MESSAGE value="add problem 297" />
-    <option name="LAST_COMMIT_MESSAGE" value="add problem 297" />
+    <MESSAGE value="add problem 300" />
+    <option name="LAST_COMMIT_MESSAGE" value="add problem 300" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -942,13 +947,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/175_contest/5333.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/175_contest/5334.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1330">
@@ -1234,13 +1232,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1015846289/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="524" column="11" selection-start-line="524" selection-start-column="4" selection-end-line="524" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/178_contest/5346.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1235">
@@ -1306,16 +1297,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hot100/300_LongestIncreasingSubsequence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="709">
-          <caret line="41" column="134" selection-start-line="41" selection-start-column="134" selection-end-line="41" selection-end-column="134" />
+        <state relative-caret-position="607">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1015846289/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="3629" column="8" selection-start-line="3629" selection-start-column="8" selection-end-line="3629" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hot100/301_RemoveInvalidParentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="e#2039#2422#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hot100/ReadMe.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="759">
-            <caret line="70" column="8" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="8" />
+          <first_editor relative-caret-position="690">
+            <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
           </first_editor>
           <second_editor />
         </state>
