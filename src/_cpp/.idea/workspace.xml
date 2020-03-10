@@ -14,11 +14,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="558481f3-869f-4288-a6e3-026a4886310e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/language_base/Annotate.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/language_base/Annotate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/Problem1342.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/Problem1342.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/Problem1365.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/Problem1365.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/Problem1365.h" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/Problem1365.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,10 +46,12 @@
     </option>
   </component>
   <component name="OCResolveContextSettings">
-    <option name="configuration" value="0-Debug-LanguageBase" />
+    <option name="configuration" value="0-Debug-LeetCode" />
   </component>
   <component name="ProjectId" id="1Yn5V3KIx44WeQqqvM8hZZLrS8n" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -64,7 +64,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/leet_code" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -105,30 +105,50 @@
       <updated>1583565537519</updated>
       <workItem from="1583565541369" duration="43000" />
       <workItem from="1583566906040" duration="1388000" />
-      <workItem from="1583808772336" duration="5070000" />
+      <workItem from="1583808772336" duration="6094000" />
     </task>
+    <task id="LOCAL-00001" summary="add language base about annotate">
+      <created>1583840368310</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583840368310</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add language base about annotate" />
+    <option name="LAST_COMMIT_MESSAGE" value="add language base about annotate" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="160" key="GridCell.Tab.0.bottom" timestamp="1583840332283">
+    <state x="319" y="-863" key="#Notifications" timestamp="1583840411041">
       <screen x="-241" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1878" height="160" key="GridCell.Tab.0.bottom/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583840332283" />
-    <state width="1878" height="160" key="GridCell.Tab.0.center" timestamp="1583840332282">
+    <state x="319" y="-863" key="#Notifications/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583840411041" />
+    <state x="302" y="-928" key="CommitChangelistDialog2" timestamp="1583840367892">
       <screen x="-241" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1878" height="160" key="GridCell.Tab.0.center/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583840332282" />
-    <state width="1878" height="160" key="GridCell.Tab.0.left" timestamp="1583840332281">
+    <state x="302" y="-928" key="CommitChangelistDialog2/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583840367892" />
+    <state width="1878" height="160" key="GridCell.Tab.0.bottom" timestamp="1583841140076">
       <screen x="-241" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1878" height="160" key="GridCell.Tab.0.left/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583840332281" />
-    <state width="1878" height="160" key="GridCell.Tab.0.right" timestamp="1583840332282">
+    <state width="1878" height="160" key="GridCell.Tab.0.bottom/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583841140076" />
+    <state width="1878" height="160" key="GridCell.Tab.0.center" timestamp="1583841140075">
       <screen x="-241" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1878" height="160" key="GridCell.Tab.0.right/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583840332282" />
+    <state width="1878" height="160" key="GridCell.Tab.0.center/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583841140075" />
+    <state width="1878" height="160" key="GridCell.Tab.0.left" timestamp="1583841140074">
+      <screen x="-241" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="160" key="GridCell.Tab.0.left/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583841140074" />
+    <state width="1878" height="160" key="GridCell.Tab.0.right" timestamp="1583841140075">
+      <screen x="-241" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="160" key="GridCell.Tab.0.right/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583841140075" />
     <state width="1878" height="348" key="GridCell.Tab.1.bottom" timestamp="1583840268809">
       <screen x="-241" y="-1057" width="1920" height="1057" />
     </state>
@@ -145,5 +165,13 @@
       <screen x="-241" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1878" height="348" key="GridCell.Tab.1.right/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583840268808" />
+    <state x="255" y="-766" key="SettingsEditor" timestamp="1583841395504">
+      <screen x="-241" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="255" y="-766" key="SettingsEditor/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583841395504" />
+    <state x="319" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1583840370741">
+      <screen x="-241" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="319" y="-789" key="Vcs.Push.Dialog.v2/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583840370741" />
   </component>
 </project>
