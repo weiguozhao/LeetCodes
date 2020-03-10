@@ -5,7 +5,6 @@
 #include "Problem1342.h"
 
 /**
- * problem 1342
  * https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/
  *
     给你一个非负整数 num ，请你返回将它变成 0 所需要的步数。
