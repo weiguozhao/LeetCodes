@@ -14,13 +14,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="558481f3-869f-4288-a6e3-026a4886310e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/language_base/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_python/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/language_base/Annotate.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/language_base/Annotate.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_python/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/Problem1365.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/Problem1365.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/Problem1365.h" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/Problem1365.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,9 @@
         <option value="$PROJECT_DIR$/.idea" />
       </set>
     </option>
+  </component>
+  <component name="OCResolveContextSettings">
+    <option name="configuration" value="0-Debug-LanguageBase" />
   </component>
   <component name="ProjectId" id="1Yn5V3KIx44WeQqqvM8hZZLrS8n" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -103,7 +105,7 @@
       <updated>1583565537519</updated>
       <workItem from="1583565541369" duration="43000" />
       <workItem from="1583566906040" duration="1388000" />
-      <workItem from="1583808772336" duration="2125000" />
+      <workItem from="1583808772336" duration="5070000" />
     </task>
     <servers />
   </component>
@@ -111,21 +113,37 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="282" key="GridCell.Tab.0.bottom" timestamp="1583810855008">
+    <state width="1878" height="160" key="GridCell.Tab.0.bottom" timestamp="1583840332283">
       <screen x="-241" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1878" height="282" key="GridCell.Tab.0.bottom/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583810855008" />
-    <state width="1878" height="282" key="GridCell.Tab.0.center" timestamp="1583810855007">
+    <state width="1878" height="160" key="GridCell.Tab.0.bottom/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583840332283" />
+    <state width="1878" height="160" key="GridCell.Tab.0.center" timestamp="1583840332282">
       <screen x="-241" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1878" height="282" key="GridCell.Tab.0.center/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583810855007" />
-    <state width="1878" height="282" key="GridCell.Tab.0.left" timestamp="1583810855006">
+    <state width="1878" height="160" key="GridCell.Tab.0.center/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583840332282" />
+    <state width="1878" height="160" key="GridCell.Tab.0.left" timestamp="1583840332281">
       <screen x="-241" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1878" height="282" key="GridCell.Tab.0.left/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583810855006" />
-    <state width="1878" height="282" key="GridCell.Tab.0.right" timestamp="1583810855007">
+    <state width="1878" height="160" key="GridCell.Tab.0.left/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583840332281" />
+    <state width="1878" height="160" key="GridCell.Tab.0.right" timestamp="1583840332282">
       <screen x="-241" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1878" height="282" key="GridCell.Tab.0.right/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583810855007" />
+    <state width="1878" height="160" key="GridCell.Tab.0.right/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583840332282" />
+    <state width="1878" height="348" key="GridCell.Tab.1.bottom" timestamp="1583840268809">
+      <screen x="-241" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.bottom/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583840268809" />
+    <state width="1878" height="348" key="GridCell.Tab.1.center" timestamp="1583840268808">
+      <screen x="-241" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.center/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583840268808" />
+    <state width="1878" height="348" key="GridCell.Tab.1.left" timestamp="1583840268807">
+      <screen x="-241" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.left/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583840268807" />
+    <state width="1878" height="348" key="GridCell.Tab.1.right" timestamp="1583840268808">
+      <screen x="-241" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.right/43.23.1397.877/-241.-1057.1920.1057@-241.-1057.1920.1057" timestamp="1583840268808" />
   </component>
 </project>

@@ -1,16 +1,15 @@
 #include <iostream>
 
-#include "language_base/MathFunctions.h"
+#include "language_base/Annotate.h"
 
 #include "leet_code/Problem1365.h"
 
 int main() {
-  std::vector<int> nums = {8, 1, 2, 2, 3};
-  auto solution = new Problem1365();
-  std::vector<int> ans = solution->smallerNumbersThanCurrent(nums);
+//  auto solution = new Problem1365();
+//  solution->testSolution();
 
-  for (auto n: ans) {
-    std::cout << n << " ";
-  }
+  auto language = new Annotate();
+  language->testMethod();
+
   return 0;
 }
