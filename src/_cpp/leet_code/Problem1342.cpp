@@ -38,6 +38,7 @@
     提示：
     0 <= num <= 10^6
  * */
+
 int Problem1342::numberOfSteps(int num) {
   int count = 0;
   while (num != 0) {
@@ -50,6 +51,7 @@ int Problem1342::numberOfSteps(int num) {
   }
   return count;
 }
+
 void Problem1342::testSolution() {
   int num = 123;
   auto ans = this->numberOfSteps(num);
