@@ -4,7 +4,7 @@
 //
 #include <iostream>
 #include "language_base/Annotate.h"
-#include "leet_code/Problem771.h"
+#include "leet_code/Problem1108.h"
 
 void testLanguage() {
   auto language = new Annotate();
@@ -12,10 +12,9 @@ void testLanguage() {
 }
 
 void testSolution() {
-  auto solution = new Problem771();
-  string J = "Z";
-  string S = "ZZ";
-  int ans = solution->numJewelsInStones(J, S);
+  auto solution = new Problem1108();
+  string s = "1.1.1.1";
+  auto ans = solution->defangIPaddr(s);
   cout << ans << endl;
 }
 
