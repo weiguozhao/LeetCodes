@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b9f4e81-62c2-4c40-9598-1f17f58d21fa" name="Default Changelist" comment="add date_structure MaxQueue">
-      <change afterPath="$PROJECT_DIR$/../_cpp/leet_code/Problem1108.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_cpp/leet_code/Problem1108.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/180_contest/5179.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/180_contest/5356.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/180_contest/5357.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/180_contest/5359.py" afterDir="false" />
+    <list default="true" id="9b9f4e81-62c2-4c40-9598-1f17f58d21fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data_structure/BinaryTreeToAVLTree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../_cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_cpp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_cpp/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../_cpp/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -98,6 +92,7 @@
     <SUITE FILE_PATH="coverage/_python$146_LRUCache.coverage" NAME="146_LRUCache Coverage Results" MODIFIED="1582025421925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/_python$5354.coverage" NAME="5354 Coverage Results" MODIFIED="1583639483213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/179_contest" />
     <SUITE FILE_PATH="coverage/_python$200_NumberofIslands.coverage" NAME="200_NumberofIslands Coverage Results" MODIFIED="1582339181021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
+    <SUITE FILE_PATH="coverage/_python$BinaryTreeToAVLTree.coverage" NAME="BinaryTreeToAVLTree Coverage Results" MODIFIED="1584501773837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
     <SUITE FILE_PATH="coverage/_python$46_Permutations.coverage" NAME="46_Permutations Coverage Results" MODIFIED="1581127233690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/_python$53_MaximumSubarray.coverage" NAME="53_MaximumSubarray Coverage Results" MODIFIED="1581144841378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
     <SUITE FILE_PATH="coverage/_python$139_WordBreak.coverage" NAME="139_WordBreak Coverage Results" MODIFIED="1581941769576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot100" />
@@ -117,13 +112,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/180_contest/5359.py">
+        <entry file="file://$PROJECT_DIR$/data_structure/BinaryTreeToAVLTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
-              <folding>
-                <element signature="e#17#52#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="412">
+              <caret line="181" column="35" selection-start-line="181" selection-start-column="35" selection-end-line="181" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -151,7 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hot100/139_WordBreak.py" />
         <option value="$PROJECT_DIR$/hot100/141_LinkedListCycle.py" />
         <option value="$PROJECT_DIR$/hot100/142_LinkedListCycke_II.py" />
         <option value="$PROJECT_DIR$/hot100/146_LRUCache.py" />
@@ -202,6 +193,7 @@
         <option value="$PROJECT_DIR$/180_contest/5357.py" />
         <option value="$PROJECT_DIR$/180_contest/5179.py" />
         <option value="$PROJECT_DIR$/180_contest/5359.py" />
+        <option value="$PROJECT_DIR$/data_structure/BinaryTreeToAVLTree.py" />
       </list>
     </option>
   </component>
@@ -217,7 +209,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,12 +219,13 @@
             <path>
               <item name="_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="_python" type="462c0819:PsiDirectoryNode" />
-              <item name="180_contest" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -261,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5359">
+  <component name="RunManager" selected="Python.BinaryTreeToAVLTree">
     <configuration name="309_BestTimetoBuyAndSellStockWithCooldown" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,28 +268,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hot100/309_BestTimetoBuyAndSellStockWithCooldown.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5355" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/179_contest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/179_contest/5355.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -350,6 +320,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="BinaryTreeToAVLTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/BinaryTreeToAVLTree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -374,11 +366,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BinaryTreeToAVLTree" />
         <item itemvalue="Python.5359" />
         <item itemvalue="Python.5356" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.309_BestTimetoBuyAndSellStockWithCooldown" />
-        <item itemvalue="Python.5355" />
       </list>
     </recent_temporary>
   </component>
@@ -414,14 +406,8 @@
       <workItem from="1583634599878" duration="7340000" />
       <workItem from="1583803949383" duration="2472000" />
       <workItem from="1583994729176" duration="2018000" />
-      <workItem from="1584238805229" duration="4626000" />
-    </task>
-    <task id="LOCAL-00042" summary="add problem 96">
-      <created>1581413505144</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1581413505144</updated>
+      <workItem from="1584238805229" duration="4678000" />
+      <workItem from="1584262954517" duration="7798000" />
     </task>
     <task id="LOCAL-00043" summary="add problem 96 answer describe">
       <created>1581413744591</created>
@@ -759,11 +745,18 @@
       <option name="project" value="LOCAL" />
       <updated>1583808635825</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="update 180 contest">
+      <created>1584247013028</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1584247013029</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="230790000" />
+    <option name="totallyTimeSpent" value="238640000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -778,12 +771,12 @@
     <frame x="-241" y="-1057" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14270501" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15069222" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49574015" visible="true" weight="0.23991507" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49446493" visible="true" weight="0.3312102" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3418259" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -792,7 +785,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32908705" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.6430446" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5042598" side_tool="true" weight="0.21125266" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50553507" side_tool="true" weight="0.332021" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.2791932" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -846,7 +839,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add problem 160" />
     <MESSAGE value="add problem 169" />
     <MESSAGE value="add problem 198" />
     <MESSAGE value="add problem 200" />
@@ -871,7 +863,8 @@
     <MESSAGE value="add date_structure MaxQueue" />
     <MESSAGE value="add contest 179" />
     <MESSAGE value="add problem 309" />
-    <option name="LAST_COMMIT_MESSAGE" value="add problem 309" />
+    <MESSAGE value="update 180 contest" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 180 contest" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -998,20 +991,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hot100/128_LongestConsecutiveSequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hot100/139_WordBreak.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hot100/3_LongestSubstringWithoutRepeatingCharacters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="692">
@@ -1263,13 +1242,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1015846289/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="3629" column="8" selection-start-line="3629" selection-start-column="8" selection-end-line="3629" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/179_contest/test.py" />
     <entry file="file://$PROJECT_DIR$/data_structure/MaxQueue.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1354,11 +1326,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/180_contest/5359.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+        <state relative-caret-position="855">
+          <caret line="45" column="11" lean-forward="true" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
           <folding>
             <element signature="e#17#52#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1015846289/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="3629" column="8" selection-start-line="3629" selection-start-column="8" selection-end-line="3629" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="348" column="8" selection-start-line="348" selection-start-column="8" selection-end-line="348" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structure/BinaryTreeToAVLTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="181" column="35" selection-start-line="181" selection-start-column="35" selection-end-line="181" selection-end-column="35" />
         </state>
       </provider>
     </entry>
