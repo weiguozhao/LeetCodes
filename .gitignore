@@ -1,5 +1,6 @@
 # vscode
 .vscode
+.DS_Store
 
 # Created by .ignore support plugin (hsz.mobi)
 ### C++ template
